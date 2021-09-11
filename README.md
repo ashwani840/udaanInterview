@@ -1,4 +1,4 @@
-# udaanInterview
+# Covid Tracker Application
 
 Please use the following commands to run the project
 
